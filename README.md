@@ -1,2 +1,2 @@
 # flawedreaderswriters
-This is a test
+During a lecture over the Readers Writers problem in OS, our professor noted that his source (https://www.studytonight.com/operating-system/readers-writer-problem) would not resolve the problem. In order to help us understand why that source's implementation would not work he made us implement it and do so using threads to also give us experience with threads.
